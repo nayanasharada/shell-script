@@ -1,3 +1,2 @@
 Shell-script
-i am learning script
-i am in
+i am learning shell script
